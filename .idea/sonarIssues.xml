@@ -38,6 +38,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Lambda/src/lambda/CalculoTeste3.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Lambda/src/lambda/Foreach.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Lambda/src/lambda/Multiplicar.java">
           <value>
             <set />
@@ -54,6 +64,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../ms-notify/src/main/java/getnet/gs/config/security/CorsConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ms-notify/src/main/java/getnet/gs/config/security/KeycloakSecurityConfigurer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ms-notify/src/main/java/getnet/gs/controller/NotifyController.java">
           <value>
             <set />
           </value>
