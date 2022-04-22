@@ -43,6 +43,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Lambda/src/lambda/Consumidor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Lambda/src/lambda/Foreach.java">
           <value>
             <set />
@@ -53,12 +58,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/Lambda/src/lambda/Predicado.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Lambda/src/lambda/Produto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Lambda/src/lambda/Soma.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/Lambda/src/lambda/Somar.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ms-brim/src/main/resources/application.yml">
           <value>
             <set />
           </value>
